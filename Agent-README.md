@@ -15,6 +15,24 @@ Unlike traditional chatbots that rely only on pre-trained knowledge, Helena can 
 
 ---
 
+## Features
+
+- AI-powered question answering
+- Web search support through Google Search
+- Fast responses using Gemini 2.5 Flash
+- Interactive Streamlit interface
+- Built with Google ADK framework
+
+## Screenshots
+
+![Home](assets/screenshot1.png)
+
+![Demo](assets/Screenshot2.png)
+
+## Live Demo
+
+https://helena-search-agent.streamlit.app/
+
 ## What is an AI Agent?
 
 An AI agent is a system that uses an LLM as a reasoning engine and combines it with external tools to perform tasks dynamically.
