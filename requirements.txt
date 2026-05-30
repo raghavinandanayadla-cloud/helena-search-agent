@@ -1,0 +1,8 @@
+streamlit
+google-generativeai        
+ipython                   
+kaggle
+python-dotenv
+nest-asyncio
+google-adk
+requests
